@@ -40,6 +40,11 @@
         "icon": "bx bx-store-alt bx-tada"
     },
     {
+        "display_name": "Payout",
+        "route": "/payout",
+        "icon": "bx bx-wallet"
+    },
+    {
         "display_name": "settings",
         "route": "/settings",
         "icon": "bx bx-cog bx-tada"

@@ -2,7 +2,7 @@ import React from 'react'
 
 import Table from '../components/table/Table'
 
-import customerList from '../assets/JsonData/customers-list.json'
+import scholarList from '../assets/JsonData/scholars-list.json'
 
 const customerTableHead = [
     '',
@@ -42,7 +42,7 @@ const Customers = () => {
                                 limit='10'
                                 headData={customerTableHead}
                                 renderHead={(item, index) => renderHead(item, index)}
-                                bodyData={customerList}
+                                bodyData={scholarList}
                                 renderBody={(item, index) => renderBody(item, index)}
                             />
                         </div>
