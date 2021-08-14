@@ -1,0 +1,47 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Scholars",
+        "route": "/customers",
+        "icon": "bx bx-user-pin bx-tada"
+    },
+    {
+        "display_name": "SLP",
+        "route": "/products",
+        "icon": "bx bx-money bx-tada"
+    },
+    {
+        "display_name": "Axie for Sale",
+        "route": "/orders",
+        "icon": "bx bx-cart bx-tada"
+    },
+    {
+        "display_name": "Analytics",
+        "route": "/analytics",
+        "icon": "bx bx-bar-chart-alt bx-tada"
+    },
+    {
+        "display_name": "Axie Breeding Farm",
+        "route": "/categories",
+        "icon": "bx bxs-happy-heart-eyes bx-tada"
+    },
+    {
+        "display_name": "Scholar Bonus",
+        "route": "/discount",
+        "icon": "bx bx-gift bx-tada"
+    },
+    {
+        "display_name": "Additional Fund",
+        "route": "/inventory",
+        "icon": "bx bx-store-alt bx-tada"
+    },
+    {
+        "display_name": "settings",
+        "route": "/settings",
+        "icon": "bx bx-cog bx-tada"
+    }
+]

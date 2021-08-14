@@ -1,0 +1,32 @@
+[
+    {
+        "icon": "bx bx-money bx-tada",
+        "count": "27,000",
+        "title": "Total SLP"
+    },
+    {
+        "icon": "bx bxs-happy-heart-eyes bx-tada",
+        "count": "100",
+        "title": "Total Axies"
+    },
+    {
+        "icon": "bx bx-dollar-circle bx-tada",
+        "count": "$5,022",
+        "title": "Amount in USD"
+    },
+    {
+        "icon": "bx bxs-error bx-tada",
+        "count": "2",
+        "title": "Warnings"
+    },
+    {
+        "icon": "bx bxl-bitcoin bx-tada",
+        "count": "$0.185925",
+        "title": "CoinGecko SLP Price"
+    },
+    {
+        "icon": "bx bxl-bitcoin bx-tada",
+        "count": "$69.62",
+        "title": "CoinGecko AXS Price"
+    }
+]
